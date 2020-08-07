@@ -1,0 +1,44 @@
+#rampage{
+    width: 100%;
+    height: 600px;
+    background-image: url(../img/rampage.jpg);
+    background-position: center;
+    background-size: cover;
+     background-repeat: no-repeat;
+}
+#lockout{
+    width: 100%;
+    height: 600px;
+    background-image: url(../img/lockout.jpg);
+    background-position: center;
+    background-size: cover;
+     background-repeat: no-repeat;
+
+}
+#onenineoneseven{
+    width: 100%;
+    height: 600px;
+    background-image: url(../img/1917.jpg);
+    background-position: center;
+    background-size: cover;
+     background-repeat: no-repeat;
+
+}
+#thecroods{
+    width: 100%;
+    height: 600px;
+    background-image: url(../img/croods.jpg);
+    background-position: center;
+    background-size: cover;
+     background-repeat: no-repeat;
+
+}
+.main-head{
+    color:slategrey;
+    margin-top: 4% ;
+    text-align: center;
+}
+
+.background{
+    background-color: lightgrey;
+}

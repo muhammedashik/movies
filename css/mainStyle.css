@@ -1,0 +1,77 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+body{
+    background-image: url(../bga.jpg);
+    background-position: center;
+    background-size: cover;
+     background-repeat: no-repeat;
+
+}
+.header{
+    color: white;
+}
+.movie-detaile{
+    margin-top: 4% ;
+
+}
+.casting img{
+    height:40px;
+    width: 40px;
+    margin-left: 10px;
+    cursor: pointer;
+}
+.left_box a{
+    text-decoration: none;
+    border-radius: 30px;
+    padding: 7px 20px;
+    margin-top: 15px;
+    color: #fff;
+    background: #107afd;
+    font-weight: 500;
+    display: inline-block;
+    margin-right: 10px;
+
+}
+.download-btn{
+    border: 1px solid #fff !important;
+    background:transparent !important;
+
+}
+.font-color{
+    color: lightslategray;
+}
+.movies_img{
+    height: 350px;
+    box-shadow: -4px 4px 5px 0;
+}
+.Recommeded-img img:hover{
+    transform: translateY(-10px);
+
+}
+.Recommeded-img a{
+    text-decoration: none;
+    color: white;
+}
+.input-field{
+    width: 100%;
+    padding: 10px 0;
+    margin: 5px 0;
+    border-left: 0;
+    border-right: 0;
+    border-bottom: 1px solid #999;
+    outline: none;
+    background-color: lightgray;
+    background: transparent;
+}
+.submit-btn{
+    width: 85%;
+    padding: 10px 30px;
+    cursor: pointer;
+    display: block;
+    margin: auto;
+    outline: none;
+    border: none;
+}
